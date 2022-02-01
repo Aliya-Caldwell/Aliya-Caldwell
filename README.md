@@ -1,4 +1,4 @@
-- Hi, I’m @Aliya-Caldwell (she/they). I am interested in movement and trophic ecology of seabirds and fishes. I am a PhD student in the Fish and Movement Ecology Lab at the University of New Hampshire.
+- Hi, I’m Aliya Caldwell (she/they). I am interested in the movement and trophic ecology of seabirds and fishes, and how the predator-prey relationship between seabirds and fishes can be used in fisheries monitoring. I am a PhD student in the Fish and Movement Ecology Lab at the University of New Hampshire.
 
 
 <!---
